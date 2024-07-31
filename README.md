@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a love for cra
 I'm a full-stack developer with experience in:
 
 Front-end: HTML, CSS, JavaScript, React
+
 Back-end: Node.js, Express
 Database: MongoDB, MySQL
 I thrive on turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you can find me exploring new technologies, or indulging in my love for travelling.
